@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartSight</string>
+    <string name="developer_mode">Developer Mode</string>
+    <string name="registration_label">Registration</string>
+    <string name="session_label">Session</string>
+    <string name="session_none">None</string>
+    <string name="register">Register</string>
+    <string name="start_session">Start session</string>
+    <string name="stop_session">Stop session</string>
+    <string name="detections_per_second">Detections per second: %1$.1f</string>
+    <string name="announce_gap">Speak again after an object has been absent for %1$d seconds</string>
+    <string name="detecting">Detecting…</string>
+    <string name="captured_photo">Video from the glasses</string>
+    <string name="detected_objects">Detected: %1$s</string>
+    <string name="detected_none">Detected: none</string>
+    <string name="spoken_objects">Spoken: %1$s</string>
+    <string name="glasses_audio_unavailable">Connect the glasses for media audio so speech plays from the glasses.</string>
+    <string name="detection_failed">Object detection failed.</string>
+    <string name="allow_camera">Allow camera access in the Meta AI app.</string>
+    <string name="starting_camera">Starting the glasses camera…</string>
+    <string name="camera_permission_denied">Camera access was denied.</string>
+    <string name="camera_not_streaming">The glasses camera did not start. Unfold the glasses, keep them on, and try again.</string>
+    <string name="permissions_required">Bluetooth permission is required before the Wearables SDK can start.</string>
+    <string name="active_listening">Listening…</string>
+    <string name="active_no_speech">No speech heard.</string>
+    <string name="active_no_image">Could not capture an image.</string>
+    <string name="active_microphone_denied">Microphone access was denied.</string>
+    <string name="active_could_not_answer">Could not answer.</string>
+    <string name="active_speech_stopped">Speech stopped.</string>
+    <string name="allow_microphone">Allow microphone access in the Meta AI app.</string>
+    <string name="inputs_unavailable">Glasses controls are unavailable.</string>
+</resources>
